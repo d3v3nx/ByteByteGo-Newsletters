@@ -1,0 +1,64 @@
+name: Random Update Newsletter
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  workflow_dispatch:     
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      
+      - name: Roll the Dice (1 in 5 chance)
+        id: dice_roll
+        shell: bash
+        run: |
+          # Generate a random number between 1 and 5
+          NUMBER=$(( ( RANDOM % 5 ) + 1 ))
+          
+          echo "🎲 Rolled a $NUMBER"
+          
+          if [ "$NUMBER" -eq "1" ]; then
+            echo "✅ Condition met! Running update..."
+            echo "should_run=true" >> $GITHUB_OUTPUT
+          else
+            echo "❌ Condition failed. Skipping update today."
+            echo "should_run=false" >> $GITHUB_OUTPUT
+          fi
+
+      
+      - name: Checkout code
+        if: steps.dice_roll.outputs.should_run == 'true'
+        uses: actions/checkout@v4
+
+     
+      - name: Set up Python
+        if: steps.dice_roll.outputs.should_run == 'true'
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+     
+      - name: Install dependencies
+        if: steps.dice_roll.outputs.should_run == 'true'
+        run: |
+          pip install requests beautifulsoup4
+
+      
+      - name: Run update script
+        if: steps.dice_roll.outputs.should_run == 'true'
+        run: |
+          python update_newsletter.py
+
+     
+      - name: Commit and Push changes
+        if: steps.dice_roll.outputs.should_run == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: Random check passed and new episode added"
+          file_pattern: README.md
