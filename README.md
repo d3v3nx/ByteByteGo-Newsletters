@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-197-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-01-30-green)
+![Episode Count](https://img.shields.io/badge/Episodes-198-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-02-01-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP200** | [EP200: HTTP/2 over TCP vs HTTP/3 over QUIC](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) | [🔗](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) |
 | **EP199** | [EP199: Behind the Scenes: What Happens When You Enter Google.com](https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens) | [🔗](https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens) |
 | **EP198** | [EP198: Best Resources to Learn AI in 2026](https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai) | [🔗](https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai) |
 | **EP197** | [EP197: 12 Architectural Concepts Developers Should Know](https://blog.bytebytego.com/p/ep197-12-architectural-concepts-developers) | [🔗](https://blog.bytebytego.com/p/ep197-12-architectural-concepts-developers) |
@@ -418,6 +419,7 @@
 | EP197 | [EP197: 12 Architectural Concepts Developers Should Know](https://blog.bytebytego.com/p/ep197-12-architectural-concepts-developers) | [👉](https://blog.bytebytego.com/p/ep197-12-architectural-concepts-developers) |
 | EP198 | [EP198: Best Resources to Learn AI in 2026](https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai) | [👉](https://blog.bytebytego.com/p/ep198-best-resources-to-learn-ai) |
 | EP199 | [EP199: Behind the Scenes: What Happens When You Enter Google.com](https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens) | [👉](https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens) |
+| EP200 | [EP200: HTTP/2 over TCP vs HTTP/3 over QUIC](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) | [👉](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) |
 
 </details>
 
