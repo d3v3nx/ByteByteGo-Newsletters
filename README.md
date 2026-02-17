@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-199-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-02-14-green)
+![Episode Count](https://img.shields.io/badge/Episodes-200-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-02-17-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP202** | [EP202: MCP vs RAG vs AI Agents](https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents) | [🔗](https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents) |
 | **EP201** | [EP201: The Evolution of AI in Software Development](https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software) | [🔗](https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software) |
 | **EP200** | [EP200: HTTP/2 over TCP vs HTTP/3 over QUIC](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) | [🔗](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) |
 | **EP199** | [EP199: Behind the Scenes: What Happens When You Enter Google.com](https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens) | [🔗](https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens) |
@@ -422,6 +423,7 @@
 | EP199 | [EP199: Behind the Scenes: What Happens When You Enter Google.com](https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens) | [👉](https://blog.bytebytego.com/p/ep199-behind-the-scenes-what-happens) |
 | EP200 | [EP200: HTTP/2 over TCP vs HTTP/3 over QUIC](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) | [👉](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) |
 | EP201 | [EP201: The Evolution of AI in Software Development](https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software) | [👉](https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software) |
+| EP202 | [EP202: MCP vs RAG vs AI Agents](https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents) | [👉](https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents) |
 
 </details>
 
