@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-200-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-02-17-green)
+![Episode Count](https://img.shields.io/badge/Episodes-201-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-02-23-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP203** | [EP203: RabbitMQ vs Kafka vs Pulsar](https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar) | [🔗](https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar) |
 | **EP202** | [EP202: MCP vs RAG vs AI Agents](https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents) | [🔗](https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents) |
 | **EP201** | [EP201: The Evolution of AI in Software Development](https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software) | [🔗](https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software) |
 | **EP200** | [EP200: HTTP/2 over TCP vs HTTP/3 over QUIC](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) | [🔗](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) |
@@ -424,6 +425,7 @@
 | EP200 | [EP200: HTTP/2 over TCP vs HTTP/3 over QUIC](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) | [👉](https://blog.bytebytego.com/p/ep200-http2-over-tcp-vs-http3-over) |
 | EP201 | [EP201: The Evolution of AI in Software Development](https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software) | [👉](https://blog.bytebytego.com/p/ep201-the-evolution-of-ai-in-software) |
 | EP202 | [EP202: MCP vs RAG vs AI Agents](https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents) | [👉](https://blog.bytebytego.com/p/ep202-mcp-vs-rag-vs-ai-agents) |
+| EP203 | [EP203: RabbitMQ vs Kafka vs Pulsar](https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar) | [👉](https://blog.bytebytego.com/p/ep203-rabbitmq-vs-kafka-vs-pulsar) |
 
 </details>
 
