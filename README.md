@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-204-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-03-21-green)
+![Episode Count](https://img.shields.io/badge/Episodes-206-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-03-30-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,8 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP208** | [EP208: Load Balancer vs API Gateway](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway) | [🔗](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway) |
+| **EP207** | [EP207: Top 12 GitHub AI Repositories](https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories) | [🔗](https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories) |
 | **EP206** | [EP206: Git Workflow: Essential Commands](https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands) | [🔗](https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands) |
 | **EP205** | [EP205: CPU vs GPU vs TPU](https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu) | [🔗](https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu) |
 | **EP204** | [EP204: 11 Ways To Use AI To Increase Your Productivity](https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase) | [🔗](https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase) |
@@ -432,6 +434,8 @@
 | EP204 | [EP204: 11 Ways To Use AI To Increase Your Productivity](https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase) | [👉](https://blog.bytebytego.com/p/ep204-11-ways-to-use-ai-to-increase) |
 | EP205 | [EP205: CPU vs GPU vs TPU](https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu) | [👉](https://blog.bytebytego.com/p/ep205-cpu-vs-gpu-vs-tpu) |
 | EP206 | [EP206: Git Workflow: Essential Commands](https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands) | [👉](https://blog.bytebytego.com/p/ep206-git-workflow-essential-commands) |
+| EP207 | [EP207: Top 12 GitHub AI Repositories](https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories) | [👉](https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories) |
+| EP208 | [EP208: Load Balancer vs API Gateway](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway) | [👉](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway) |
 
 </details>
 
