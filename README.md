@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-207-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-04-11-green)
+![Episode Count](https://img.shields.io/badge/Episodes-209-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-04-21-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,8 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP211** | [EP211: How the JVM Works](https://blog.bytebytego.com/p/ep211-how-the-jvm-works) | [🔗](https://blog.bytebytego.com/p/ep211-how-the-jvm-works) |
+| **EP210** | [EP210: Monolithic vs Microservices vs Serverless](https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices) | [🔗](https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices) |
 | **EP209** | [EP209: 12 Claude Code Features Every Engineer Should Know](https://blog.bytebytego.com/p/ep209-12-claude-code-features-every) | [🔗](https://blog.bytebytego.com/p/ep209-12-claude-code-features-every) |
 | **EP208** | [EP208: Load Balancer vs API Gateway](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway) | [🔗](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway) |
 | **EP207** | [EP207: Top 12 GitHub AI Repositories](https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories) | [🔗](https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories) |
@@ -438,6 +440,8 @@
 | EP207 | [EP207: Top 12 GitHub AI Repositories](https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories) | [👉](https://blog.bytebytego.com/p/ep207-top-12-github-ai-repositories) |
 | EP208 | [EP208: Load Balancer vs API Gateway](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway) | [👉](https://blog.bytebytego.com/p/ep208-load-balancer-vs-api-gateway) |
 | EP209 | [EP209: 12 Claude Code Features Every Engineer Should Know](https://blog.bytebytego.com/p/ep209-12-claude-code-features-every) | [👉](https://blog.bytebytego.com/p/ep209-12-claude-code-features-every) |
+| EP210 | [EP210: Monolithic vs Microservices vs Serverless](https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices) | [👉](https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices) |
+| EP211 | [EP211: How the JVM Works](https://blog.bytebytego.com/p/ep211-how-the-jvm-works) | [👉](https://blog.bytebytego.com/p/ep211-how-the-jvm-works) |
 
 </details>
 
