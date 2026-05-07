@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-210-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-04-30-green)
+![Episode Count](https://img.shields.io/badge/Episodes-211-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-07-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP213** | [EP213: MCP vs Skills, Clearly Explained](https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained) | [🔗](https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained) |
 | **EP212** | [EP212: Data Warehouse vs Data Lake vs Data Mesh](https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake) | [🔗](https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake) |
 | **EP211** | [EP211: How the JVM Works](https://blog.bytebytego.com/p/ep211-how-the-jvm-works) | [🔗](https://blog.bytebytego.com/p/ep211-how-the-jvm-works) |
 | **EP210** | [EP210: Monolithic vs Microservices vs Serverless](https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices) | [🔗](https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices) |
@@ -444,6 +445,7 @@
 | EP210 | [EP210: Monolithic vs Microservices vs Serverless](https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices) | [👉](https://blog.bytebytego.com/p/ep210-monolithic-vs-microservices) |
 | EP211 | [EP211: How the JVM Works](https://blog.bytebytego.com/p/ep211-how-the-jvm-works) | [👉](https://blog.bytebytego.com/p/ep211-how-the-jvm-works) |
 | EP212 | [EP212: Data Warehouse vs Data Lake vs Data Mesh](https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake) | [👉](https://blog.bytebytego.com/p/ep212-data-warehouse-vs-data-lake) |
+| EP213 | [EP213: MCP vs Skills, Clearly Explained](https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained) | [👉](https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained) |
 
 </details>
 
