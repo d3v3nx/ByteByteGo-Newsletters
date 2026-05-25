@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-213-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-20-green)
+![Episode Count](https://img.shields.io/badge/Episodes-214-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-05-25-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP216** | [EP216: RAGs vs Agents](https://blog.bytebytego.com/p/ep216-rags-vs-agents) | [🔗](https://blog.bytebytego.com/p/ep216-rags-vs-agents) |
 | **EP215** | [EP215: The Anatomy of an AI Agent](https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent) | [🔗](https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent) |
 | **EP214** | [EP214: Claude Code vs. OpenClaw: 5 Design Dimensions](https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design) | [🔗](https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design) |
 | **EP213** | [EP213: MCP vs Skills, Clearly Explained](https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained) | [🔗](https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained) |
@@ -450,6 +451,7 @@
 | EP213 | [EP213: MCP vs Skills, Clearly Explained](https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained) | [👉](https://blog.bytebytego.com/p/ep213-mcp-vs-skills-clearly-explained) |
 | EP214 | [EP214: Claude Code vs. OpenClaw: 5 Design Dimensions](https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design) | [👉](https://blog.bytebytego.com/p/ep214-claude-code-vs-openclaw-5-design) |
 | EP215 | [EP215: The Anatomy of an AI Agent](https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent) | [👉](https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent) |
+| EP216 | [EP216: RAGs vs Agents](https://blog.bytebytego.com/p/ep216-rags-vs-agents) | [👉](https://blog.bytebytego.com/p/ep216-rags-vs-agents) |
 
 </details>
 
