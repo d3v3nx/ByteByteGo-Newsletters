@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-215-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-06-13-green)
+![Episode Count](https://img.shields.io/badge/Episodes-216-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-06-14-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP218** | [EP218: The Typical AI Agent Stack, Explained](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) | [🔗](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) |
 | **EP217** | [EP217: Latency vs Throughput vs Bandwidth](https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth) | [🔗](https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth) |
 | **EP216** | [EP216: RAGs vs Agents](https://blog.bytebytego.com/p/ep216-rags-vs-agents) | [🔗](https://blog.bytebytego.com/p/ep216-rags-vs-agents) |
 | **EP215** | [EP215: The Anatomy of an AI Agent](https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent) | [🔗](https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent) |
@@ -454,6 +455,7 @@
 | EP215 | [EP215: The Anatomy of an AI Agent](https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent) | [👉](https://blog.bytebytego.com/p/ep215-the-anatomy-of-an-ai-agent) |
 | EP216 | [EP216: RAGs vs Agents](https://blog.bytebytego.com/p/ep216-rags-vs-agents) | [👉](https://blog.bytebytego.com/p/ep216-rags-vs-agents) |
 | EP217 | [EP217: Latency vs Throughput vs Bandwidth](https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth) | [👉](https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth) |
+| EP218 | [EP218: The Typical AI Agent Stack, Explained](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) | [👉](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) |
 
 </details>
 
