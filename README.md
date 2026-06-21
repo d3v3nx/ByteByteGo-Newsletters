@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-216-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-06-14-green)
+![Episode Count](https://img.shields.io/badge/Episodes-217-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-06-21-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP219** | [EP219: 12 Open-source LLMs](https://blog.bytebytego.com/p/ep219-12-open-source-llms) | [🔗](https://blog.bytebytego.com/p/ep219-12-open-source-llms) |
 | **EP218** | [EP218: The Typical AI Agent Stack, Explained](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) | [🔗](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) |
 | **EP217** | [EP217: Latency vs Throughput vs Bandwidth](https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth) | [🔗](https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth) |
 | **EP216** | [EP216: RAGs vs Agents](https://blog.bytebytego.com/p/ep216-rags-vs-agents) | [🔗](https://blog.bytebytego.com/p/ep216-rags-vs-agents) |
@@ -456,6 +457,7 @@
 | EP216 | [EP216: RAGs vs Agents](https://blog.bytebytego.com/p/ep216-rags-vs-agents) | [👉](https://blog.bytebytego.com/p/ep216-rags-vs-agents) |
 | EP217 | [EP217: Latency vs Throughput vs Bandwidth](https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth) | [👉](https://blog.bytebytego.com/p/ep217-latency-vs-throughput-vs-bandwidth) |
 | EP218 | [EP218: The Typical AI Agent Stack, Explained](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) | [👉](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) |
+| EP219 | [EP219: 12 Open-source LLMs](https://blog.bytebytego.com/p/ep219-12-open-source-llms) | [👉](https://blog.bytebytego.com/p/ep219-12-open-source-llms) |
 
 </details>
 
