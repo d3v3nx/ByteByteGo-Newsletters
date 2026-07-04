@@ -3,7 +3,7 @@
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
 ![Episode Count](https://img.shields.io/badge/Episodes-218-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-07-03-green)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-07-04-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
