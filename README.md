@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-218-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-07-06-green)
+![Episode Count](https://img.shields.io/badge/Episodes-219-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-07-17-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP221** | [EP221: How Docker Works Under the Hood](https://blog.bytebytego.com/p/ep221-how-docker-works-under-the) | [🔗](https://blog.bytebytego.com/p/ep221-how-docker-works-under-the) |
 | **EP220** | [EP220: RAG vs Graph RAG vs Agentic RAG](https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic) | [🔗](https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic) |
 | **EP219** | [EP219: 12 Open-source LLMs](https://blog.bytebytego.com/p/ep219-12-open-source-llms) | [🔗](https://blog.bytebytego.com/p/ep219-12-open-source-llms) |
 | **EP218** | [EP218: The Typical AI Agent Stack, Explained](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) | [🔗](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) |
@@ -460,6 +461,7 @@
 | EP218 | [EP218: The Typical AI Agent Stack, Explained](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) | [👉](https://blog.bytebytego.com/p/ep218-the-typical-ai-agent-stack) |
 | EP219 | [EP219: 12 Open-source LLMs](https://blog.bytebytego.com/p/ep219-12-open-source-llms) | [👉](https://blog.bytebytego.com/p/ep219-12-open-source-llms) |
 | EP220 | [EP220: RAG vs Graph RAG vs Agentic RAG](https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic) | [👉](https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic) |
+| EP221 | [EP221: How Docker Works Under the Hood](https://blog.bytebytego.com/p/ep221-how-docker-works-under-the) | [👉](https://blog.bytebytego.com/p/ep221-how-docker-works-under-the) |
 
 </details>
 
