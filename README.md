@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-219-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-08-12-green)
+![Episode Count](https://img.shields.io/badge/Episodes-220-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-08-17-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP222** | [EP222: What is Google’s TPU?](https://blog.bytebytego.com/p/ep222-what-is-googles-tpu) | [🔗](https://blog.bytebytego.com/p/ep222-what-is-googles-tpu) |
 | **EP221** | [EP221: How Docker Works Under the Hood](https://blog.bytebytego.com/p/ep221-how-docker-works-under-the) | [🔗](https://blog.bytebytego.com/p/ep221-how-docker-works-under-the) |
 | **EP220** | [EP220: RAG vs Graph RAG vs Agentic RAG](https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic) | [🔗](https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic) |
 | **EP219** | [EP219: 12 Open-source LLMs](https://blog.bytebytego.com/p/ep219-12-open-source-llms) | [🔗](https://blog.bytebytego.com/p/ep219-12-open-source-llms) |
@@ -462,6 +463,7 @@
 | EP219 | [EP219: 12 Open-source LLMs](https://blog.bytebytego.com/p/ep219-12-open-source-llms) | [👉](https://blog.bytebytego.com/p/ep219-12-open-source-llms) |
 | EP220 | [EP220: RAG vs Graph RAG vs Agentic RAG](https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic) | [👉](https://blog.bytebytego.com/p/ep220-rag-vs-graph-rag-vs-agentic) |
 | EP221 | [EP221: How Docker Works Under the Hood](https://blog.bytebytego.com/p/ep221-how-docker-works-under-the) | [👉](https://blog.bytebytego.com/p/ep221-how-docker-works-under-the) |
+| EP222 | [EP222: What is Google’s TPU?](https://blog.bytebytego.com/p/ep222-what-is-googles-tpu) | [👉](https://blog.bytebytego.com/p/ep222-what-is-googles-tpu) |
 
 </details>
 
