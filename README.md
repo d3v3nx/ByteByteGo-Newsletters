@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-222-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-09-10-green)
+![Episode Count](https://img.shields.io/badge/Episodes-226-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-05-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,10 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP228** | [EP228: How SSH Works](https://blog.bytebytego.com/p/ep228-how-ssh-works) | [🔗](https://blog.bytebytego.com/p/ep228-how-ssh-works) |
+| **EP227** | [EP227: Top 9 Places to Use Jev](https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev) | [🔗](https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev) |
+| **EP226** | [EP226: API Concepts Every Software Engineer Should Know](https://blog.bytebytego.com/p/ep226-api-concepts-every-software) | [🔗](https://blog.bytebytego.com/p/ep226-api-concepts-every-software) |
+| **EP225** | [EP225: Why Does Git Revert Cause Conflicts?](https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts) | [🔗](https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts) |
 | **EP224** | [EP224: MCP vs RAG vs AI Agents](https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents) | [🔗](https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents) |
 | **EP223** | [EP223: Ollama vs vLLM vs SGLang](https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang) | [🔗](https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang) |
 | **EP222** | [EP222: What is Google’s TPU?](https://blog.bytebytego.com/p/ep222-what-is-googles-tpu) | [🔗](https://blog.bytebytego.com/p/ep222-what-is-googles-tpu) |
@@ -468,6 +472,10 @@
 | EP222 | [EP222: What is Google’s TPU?](https://blog.bytebytego.com/p/ep222-what-is-googles-tpu) | [👉](https://blog.bytebytego.com/p/ep222-what-is-googles-tpu) |
 | EP223 | [EP223: Ollama vs vLLM vs SGLang](https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang) | [👉](https://blog.bytebytego.com/p/ep223-ollama-vs-vllm-vs-sglang) |
 | EP224 | [EP224: MCP vs RAG vs AI Agents](https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents) | [👉](https://blog.bytebytego.com/p/ep224-mcp-vs-rag-vs-ai-agents) |
+| EP225 | [EP225: Why Does Git Revert Cause Conflicts?](https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts) | [👉](https://blog.bytebytego.com/p/ep225-why-does-git-revert-cause-conflicts) |
+| EP226 | [EP226: API Concepts Every Software Engineer Should Know](https://blog.bytebytego.com/p/ep226-api-concepts-every-software) | [👉](https://blog.bytebytego.com/p/ep226-api-concepts-every-software) |
+| EP227 | [EP227: Top 9 Places to Use Jev](https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev) | [👉](https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev) |
+| EP228 | [EP228: How SSH Works](https://blog.bytebytego.com/p/ep228-how-ssh-works) | [👉](https://blog.bytebytego.com/p/ep228-how-ssh-works) |
 
 </details>
 
