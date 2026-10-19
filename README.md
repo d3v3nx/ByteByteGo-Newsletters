@@ -2,8 +2,8 @@
 # 📚 ByteByteGo Newsletter Archive
 
 [![Auto-Update](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml/badge.svg)](https://github.com/d3v3nx/ByteByteGo-Newsletters/actions/workflows/daily_update.yml)
-![Episode Count](https://img.shields.io/badge/Episodes-226-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-16-green)
+![Episode Count](https://img.shields.io/badge/Episodes-227-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-19-green)
 
 > **Note:** This is an unofficial automated archive to help developers find episodes easily. All content belongs to [ByteByteGo](https://blog.bytebytego.com/).
 
@@ -14,6 +14,7 @@
 
 | Episode | Title | Read |
 | :---: | :--- | :---: |
+| **EP229** | [EP229: 8 Chunking strategies for RAG-based agents](https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag) | [🔗](https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag) |
 | **EP228** | [EP228: How SSH Works](https://blog.bytebytego.com/p/ep228-how-ssh-works) | [🔗](https://blog.bytebytego.com/p/ep228-how-ssh-works) |
 | **EP227** | [EP227: Top 9 Places to Use Jev](https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev) | [🔗](https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev) |
 | **EP226** | [EP226: API Concepts Every Software Engineer Should Know](https://blog.bytebytego.com/p/ep226-api-concepts-every-software) | [🔗](https://blog.bytebytego.com/p/ep226-api-concepts-every-software) |
@@ -476,6 +477,7 @@
 | EP226 | [EP226: API Concepts Every Software Engineer Should Know](https://blog.bytebytego.com/p/ep226-api-concepts-every-software) | [👉](https://blog.bytebytego.com/p/ep226-api-concepts-every-software) |
 | EP227 | [EP227: Top 9 Places to Use Jev](https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev) | [👉](https://blog.bytebytego.com/p/ep227-top-9-places-to-use-jev) |
 | EP228 | [EP228: How SSH Works](https://blog.bytebytego.com/p/ep228-how-ssh-works) | [👉](https://blog.bytebytego.com/p/ep228-how-ssh-works) |
+| EP229 | [EP229: 8 Chunking strategies for RAG-based agents](https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag) | [👉](https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag) |
 
 </details>
 
